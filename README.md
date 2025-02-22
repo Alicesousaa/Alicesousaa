@@ -16,7 +16,7 @@
 
 ---
 
-Aqui estão algumas das ferramentas e tecnologias que estou utilizando atualmente em meus projetos de **Engenharia de Dados**:
+Aqui estão algumas das ferramentas e tecnologias que estou utilizando atualmente em meus projetos:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,23 +27,7 @@ Aqui estão algumas das ferramentas e tecnologias que estou utilizando atualment
 
 </div>
 
----
 
-## 📈 O que estou aprendendo
-
-- **Python**: Automação e manipulação de dados com bibliotecas como **Pandas**, **NumPy**, entre outras.
-- **SQL**: Consultas avançadas em **Azure SQL Database**.
-- **Apache Airflow**: Orquestração de workflows e automação de pipelines.
-- **Google Cloud Platform**: Usando **GCP** para armazenar e processar dados em larga escala.
-- **Docker**: Containerização de aplicativos e ambientes de desenvolvimento.
-- **Scala & Apache Spark**: Processamento de Big Data.
-- **Snowflake**: Data Warehousing e análise de dados em tempo real.
-- **Tableau & Power BI**: Visualização de dados em dashboards interativos.
-
----
-
-          
-          
           
           
 
