@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Alicesousaa&show_icons=true&theme=radical&icon_color=ff007f&text_color=ffffff" />
 </picture>
 
-🌸 Apaixonada por **Engenharia de Dados** e buscando aprender e evoluir a cada dia!
+🌸 Engenheira de Dados e buscando aprender e evoluir a cada dia!
 
 ---
 
